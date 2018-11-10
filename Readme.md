@@ -1,3 +1,3 @@
-밑바닥부터 시작하는 딥러닝
----
-- 향후 cs231n homework을 직접 구현해볼 예정.
+Deep learning from scratch
+=====
+1. Reference: 밑바닥부터 시작하는 딥러닝(한빛미디어)
